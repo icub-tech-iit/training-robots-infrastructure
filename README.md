@@ -3,7 +3,7 @@
 This repository contais the material fo rthe course on Robot Infrastructure (by the IT point of view)
 
 This scourse will cover the following aspects:
-- Robot setup Hardware in terms os computer and networking
+- Robot setup hardware in terms of computer and networking
 - Robot setup networking
 - robot setup software services
 
